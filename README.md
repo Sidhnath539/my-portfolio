@@ -14,15 +14,15 @@ This is a personal portfolio website built using **HTML**, **CSS**, and **JavaSc
 
 ## Technologies Used
 
-- **HTML5**: For structuring the website.
-- **CSS3**: For styling and responsive design.
+- **HTML**: For structuring the website.
+- **CSS**: For styling and responsive design.
 - **JavaScript**: For interactivity and dynamic features.
 
 ## Getting Started
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/your-portfolio-repo.git
+   git clone https://sidhnath539.github.io/my-portfolio/
    ```
 
 2. **Navigate to the project directory:**
